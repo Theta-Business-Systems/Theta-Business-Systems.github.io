@@ -180,6 +180,7 @@ th {
   padding: 0; }
 
 header {
-  background: url("../img/header.jpg"); }
+  background: url("header.jpg");
+  height: 200px; }
 
 /*# sourceMappingURL=styles.css.map */
